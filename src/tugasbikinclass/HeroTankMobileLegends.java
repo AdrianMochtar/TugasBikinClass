@@ -17,7 +17,9 @@ public class HeroTankMobileLegends {
         System.out.println("Attack      : "+atk);
         System.out.println("Health Poin : "+hp);
         System.out.println("Mana        : "+mana);
-        System.out.println("Deffend     : "+deff); 
+        System.out.println("Deffend     : "+deff);
+        System.out.println();
+        
 } 
     
 }
