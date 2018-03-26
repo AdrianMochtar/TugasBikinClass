@@ -28,6 +28,10 @@ public class HeroTankMobileLegendsAction {
         Akai.mana=422;
         Akai.deff=17;
         
+        Hylos.SupportTeam();
+        Jhonson.SupportTeam();
+        Akai.SupportTeam();
+        
     }
     
 }
